@@ -1,4 +1,4 @@
-#Zero-Shot Multi-Label Classification of Bangla Documents
+# Zero-Shot Multi-Label Classification of Bangla Documents
 
 Code and experiment scripts for the paper:
 
