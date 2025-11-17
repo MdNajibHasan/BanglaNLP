@@ -1,8 +1,8 @@
-# Zero-Shot Multi-Label Classification of Bangla Documents
+#Zero-Shot Multi-Label Classification of Bangla Documents
 
 Code and experiment scripts for the paper:
 
-**“Zero-Shot Multi-Label Classification of Bangla Documents: Large Decoders vs. Classic Encoders.”**
+**Zero-Shot Multi-Label Classification of Bangla Documents: Large Decoders vs. Classic Encoders.**
 
 This repo contains:
 - The BanglaNewsNet benchmark pipeline
